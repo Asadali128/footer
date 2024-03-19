@@ -1,0 +1,49 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.back{
+    background-color:  #047477;
+    height: 370px;
+}
+
+.star{
+  text-align: center;
+  padding: 50px 0px;
+}
+
+.star h1{
+    color: white;
+}
+
+.star p{
+    color: white;
+    font-size: 20px;
+}
+
+
+.info h6{
+    opacity: 0.9;
+    margin-top: 200px;
+    font-size: 20px;
+}
+
+.submit button{
+    font-size: 20px;
+    float: right;
+    margin-top: 20px;
+    background-color: #047477;
+    color: white;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 100px;
+
+}
+
+.submit button:hover{
+    background-color: white;
+    border: 2px solid #047477;
+    color: black;
+    transition: 0.9s;
+}
